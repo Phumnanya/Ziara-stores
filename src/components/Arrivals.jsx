@@ -18,7 +18,7 @@ function Arrivals() {
                 <Box w={{ base: "50%", md: "30%" }} m={"auto"}>
                 <Card w={"100%"}>
                     <CardBody>
-                        <Image src='/img/rendy-novantino-_jd8I6yBWM4-unsplash.jpg' boxSize={"sm"}
+                        <Image src='https://ik.imagekit.io/fvrl067t2/img/rendy-novantino-_jd8I6yBWM4-unsplash.jpg' boxSize={"sm"}
                         alt='armani dinner gown' objectFit={"cover"} />
                         <VStack align={"start"}>
                             <Text fontSize={"sm"} color={"gray.500"}>FASHION</Text>
@@ -68,7 +68,7 @@ function Arrivals() {
                 <Box w={{ base: "50%", md: "30%" }} m={"auto"}>
                 <Card w={"100%"}>
                     <CardBody>
-                        <Image src='/img/reza-delkhosh-1h4SHm3SZ0c-unsplash.jpg' boxSize={"sm"}
+                        <Image src='https://ik.imagekit.io/fvrl067t2/img/reza-delkhosh-1h4SHm3SZ0c-unsplash.jpg' boxSize={"sm"}
                         alt='Fendi wears' objectFit={"cover"} />
                         <VStack align={"start"}>
                             <Text fontSize={"sm"} color={"gray.500"}>FASHION</Text>
@@ -93,7 +93,7 @@ function Arrivals() {
                 <Box w={{ base: "50%", md: "30%" }} m={"auto"}>
                 <Card w={"100%"}>
                     <CardBody>
-                        <Image src='/img/reza-delkhosh-iRAOJYtPHZE-unsplash.jpg' boxSize={"sm"}
+                        <Image src='https://ik.imagekit.io/fvrl067t2/img/reza-delkhosh-iRAOJYtPHZE-unsplash.jpg' boxSize={"sm"}
                         alt='versace high class' objectFit={"cover"} />
                         <VStack align={"start"}>
                             <Text fontSize={"sm"} color={"gray.500"}>FASHION</Text>
@@ -118,7 +118,7 @@ function Arrivals() {
                 <Box w={{ base: "50%", md: "30%" }} m={"auto"}>
                 <Card w={"100%"}>
                     <CardBody>
-                        <Image src='/img/raamin-ka-uR51HXLO7G0-unsplash.jpg' boxSize={"sm"}
+                        <Image src='https://ik.imagekit.io/fvrl067t2/img/raamin-ka-uR51HXLO7G0-unsplash.jpg' boxSize={"sm"}
                         alt='viscose off-shoulder' objectFit={"cover"} />
                         <VStack align={"start"}>
                             <Text fontSize={"sm"} color={"gray.500"}>FASHION</Text>
@@ -143,7 +143,7 @@ function Arrivals() {
                 <Box w={{ base: "50%", md: "30%" }} m={"auto"}>
                 <Card w={"100%"}>
                     <CardBody>
-                        <Image src='/img/aiony-haust-IXYxqP4zejo-unsplash.jpg' boxSize={"sm"}
+                        <Image src='https://ik.imagekit.io/fvrl067t2/img/aiony-haust-IXYxqP4zejo-unsplash.jpg' boxSize={"sm"}
                         alt='ramazotti vintage' objectFit={"cover"} />
                         <VStack align={"start"}>
                             <Text fontSize={"sm"} color={"gray.500"}>FASHION</Text>
