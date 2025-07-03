@@ -88,8 +88,15 @@ function Arrivals() {
                     </CardBody>
                 </Card>
                 </Box>
+            </Flex>
+        </>
+    )
+}
 
-                {/**Product 3 */}
+export default Arrivals;
+
+/*
+ {/**Product 3 */}
                 <Box w={{ base: "50%", md: "30%" }} m={"auto"}>
                 <Card w={"100%"}>
                     <CardBody>
@@ -168,9 +175,4 @@ function Arrivals() {
                     Shop All Product <FontAwesomeIcon icon={faExternalLinkAlt} />
                     </Button>
                 </Center>
-            </Flex>
-        </>
-    )
-}
-
-export default Arrivals;
+*/
