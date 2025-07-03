@@ -15,15 +15,15 @@ function Trending() {
                     alt='woman on denim jacket' />
                 </Box>
                 <Box m={"auto 3px 3px 3px"}>
-                    <Image boxSize='lg' src='/img/ian-dooley-TT-ROxWj9nA-unsplash.jpg' objectFit={"cover"}
+                    <Image boxSize='lg' src='https://ik.imagekit.io/fvrl067t2/img/ian-dooley-TT-ROxWj9nA-unsplash.jpg' objectFit={"cover"}
                     alt='woman on denim jacket' />
                 </Box>
                 <Box m={"auto 3px auto 3px"}>
-                    <Image boxSize='lg' src='/img/kristina-petrick-OJHNzGwqTSA-unsplash.jpg' objectFit={"cover"}
+                    <Image boxSize='lg' src='https://ik.imagekit.io/fvrl067t2/img/kristina-petrick-OJHNzGwqTSA-unsplash.jpg' objectFit={"cover"}
                     alt='woman on denim jacket' />
                 </Box>
                 <Box m={"auto 3px auto 3px"}>
-                    <Image boxSize='lg' src='/img/illia-melnichuk-ao7GtnjcBzo-unsplash.jpg' objectFit={"cover"}
+                    <Image boxSize='lg' src='https://ik.imagekit.io/fvrl067t2/img/illia-melnichuk-ao7GtnjcBzo-unsplash.jpg' objectFit={"cover"}
                     alt='woman on denim jacket' />
                 </Box>
             </Flex>
