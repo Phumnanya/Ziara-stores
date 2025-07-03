@@ -19,21 +19,21 @@ function Shoptab() {
                     <TabPanel>
                     <Flex flexDir={"row"} justifyContent={"space-between"} alignItems={"center"} w={"95%"}>
                         <Box h={"fit-content"} w={"30%"}>
-                            <Image boxSize='sm' src='/img/mohamad-khosravi-5KyzZbonwqQ-unsplash.jpg' objectFit={"cover"}
+                            <Image boxSize='sm' src='https://ik.imagekit.io/fvrl067t2/img/mohamad-khosravi-zCSlmX3-98I-unsplash.jpg?updatedAt=1751554867928' objectFit={"cover"}
                              alt='black tuxedo' />
                             <Box position={"relative"} bottom={"5em"}>
                                 <Button color={"blackAlpha.900"} bg={"white"}>Tuxedos</Button>
                             </Box>
                         </Box>
                         <Box h={"fit-content"} w={"30%"}>
-                            <Image boxSize='sm' src='/img/dami-adebayo-k6aQzmIbR1s-unsplash.jpg' objectFit={"cover"}
+                            <Image boxSize='sm' src='https://ik.imagekit.io/fvrl067t2/img/dami-adebayo-k6aQzmIbR1s-unsplash.jpg?updatedAt=1751554421072' objectFit={"cover"}
                              alt='leather jackets' />
                             <Box position={"relative"} bottom={"5em"}>
                                 <Button color={"blackAlpha.900"} bg={"white"}>Leather jackets</Button>
                             </Box>
                         </Box>
                         <Box h={"fit-content"} w={"30%"}>
-                            <Image boxSize='sm' src='/img/patrick-amofah-cytUXI-fEOU-unsplash.jpg' objectFit={"cover"}
+                            <Image boxSize='sm' src='https://ik.imagekit.io/fvrl067t2/img/patrick-amofah-cytUXI-fEOU-unsplash.jpg?updatedAt=1751555133136' objectFit={"cover"}
                              alt='agbada' />
                             <Box position={"relative"} bottom={"5em"}>
                                 <Button color={"blackAlpha.900"} bg={"white"}>Agbada</Button>
@@ -73,21 +73,21 @@ function Shoptab() {
                     <TabPanel>
                     <Flex flexDir={"row"} justifyContent={"space-between"} alignItems={"center"} w={"95%"}>
                         <Box h={"fit-content"} w={"30%"}>
-                            <Image boxSize='sm' src='/img/kristiina-glaase-DyL0KAEY70s-unsplash.jpg' objectFit={"cover"}
+                            <Image boxSize='sm' src='https://ik.imagekit.io/fvrl067t2/img/kristiina-glaase-DyL0KAEY70s-unsplash.jpg?updatedAt=1751554866582' objectFit={"cover"}
                              alt='kids jean and blouse' />
                             <Box position={"relative"} bottom={"5em"}>
                                 <Button color={"blackAlpha.900"} bg={"white"}>Blouse</Button>
                             </Box>
                         </Box>
                         <Box h={"fit-content"} w={"30%"}>
-                            <Image boxSize='sm' src='/img/terricks-noah-n9R0MN3XGvY-unsplash.jpg' objectFit={"cover"}
+                            <Image boxSize='sm' src='https://ik.imagekit.io/fvrl067t2/img/terricks-noah-n9R0MN3XGvY-unsplash.jpg' objectFit={"cover"}
                              alt='casual wears' />
                             <Box position={"relative"} bottom={"5em"}>
                                 <Button color={"blackAlpha.900"} bg={"white"}>Casual wears</Button>
                             </Box>
                         </Box>
                         <Box h={"fit-content"} w={"30%"}>
-                            <Image boxSize='sm' src='/img/kayan-baby-kPXq-jxhMkk-unsplash.jpg' objectFit={"cover"}
+                            <Image boxSize='sm' src='https://ik.imagekit.io/fvrl067t2/img/kayan-baby-kPXq-jxhMkk-unsplash.jpg?updatedAt=1751554649450' objectFit={"cover"}
                              alt='kids gowns' />
                             <Box position={"relative"} bottom={"5em"}>
                                 <Button color={"blackAlpha.900"} bg={"white"}>Gowns</Button>
