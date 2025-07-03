@@ -125,33 +125,3 @@ function Arrivals() {
 }
 
 export default Arrivals;
-
-                
-
-                /**Product 4 
-                <Box w={{ base: "50%", md: "30%" }} m={"auto"}>
-                <Card w={"100%"}>
-                    <CardBody>
-                        <Image src='https://ik.imagekit.io/fvrl067t2/img/raamin-ka-uR51HXLO7G0-unsplash.jpg' boxSize={"sm"}
-                        alt='viscose off-shoulder' objectFit={"cover"} />
-                        <VStack align={"start"}>
-                            <Text fontSize={"sm"} color={"gray.500"}>FASHION</Text>
-                            <Text color={"black"} fontSize={"xl"}>Viscose Off-Shoulder</Text>
-                            <StarRatings
-                                rating={3}
-                                starDimension="20px"
-                                starSpacing="5px"
-                                starRatedColor="gold"
-                                starHoverColor="gold"
-                                changeRating={(newRating) => console.log(newRating)}
-                                numberOfStars={5}
-                                name='rating0'
-                                />
-                            <Text fontSize={"sm"} fontWeight={"bold"}>$45.00</Text>
-                        </VStack>
-                    </CardBody>
-                </Card>
-                </Box>
-                
-                
-*/
