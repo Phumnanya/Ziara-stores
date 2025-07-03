@@ -14,7 +14,7 @@ function Arrivals() {
 
             <Flex flexDir={"row"} alignItems={"center"} justifyContent={"center"} w={"92%"} fontFamily={"verdana"}
             m={"auto"} flexWrap={"wrap"}>
-                {/**Product 0 */}
+        
                 <Box w={{ base: "50%", md: "30%" }} m={"auto"}>
                 <Card w={"100%"}>
                     <CardBody>
@@ -39,7 +39,6 @@ function Arrivals() {
                 </Card>
                 </Box>
 
-                {/**Product 1 */}
                 <Box w={{ base: "50%", md: "30%" }} m={"auto"}>
                 <Card w={"100%"}>
                     <CardBody>
@@ -64,7 +63,6 @@ function Arrivals() {
                 </Card>
                 </Box>
 
-                {/**Product 2 */}
                 <Box w={{ base: "50%", md: "30%" }} m={"auto"}>
                 <Card w={"100%"}>
                     <CardBody>
@@ -89,7 +87,6 @@ function Arrivals() {
                 </Card>
                 </Box>
 
-                {/**Product 3 */}
                 <Box w={{ base: "50%", md: "30%" }} m={"auto"}>
                 <Card w={"100%"}>
                     <CardBody>
