@@ -19,7 +19,7 @@ function Carousel() {
     >
         <SplideSlide>
             <Center
-            bgImage="url('/img/alexander-naglestad-RFhq0SrrgEg-unsplash.jpg')" bgSize="cover" bgRepeat="no-repeat" bgPos={"center"}
+            bgImage="url('https://ik.imagekit.io/fvrl067t2/img/alexander-naglestad-RFhq0SrrgEg-unsplash.jpg')" bgSize="cover" bgRepeat="no-repeat" bgPos={"center"}
             bgAttachment={"fixed"} h={"300px"} >
                 <VStack fontFamily={"sans-serif"} color={"white"}>
                     <Text fontSize={{ base: "1xl", md: "3xl" }} fontWeight={"bold"}>Express Yourself</Text>
@@ -31,7 +31,7 @@ function Carousel() {
         </SplideSlide>
         <SplideSlide>
             <Center
-            bgImage="url('/img/chris-reyem-oJoeGnj8OMM-unsplash.jpg')" bgSize="cover" bgRepeat="no-repeat" 
+            bgImage="url('https://ik.imagekit.io/fvrl067t2/img/chris-reyem-oJoeGnj8OMM-unsplash.jpg')" bgSize="cover" bgRepeat="no-repeat" 
             bgAttachment="fixed" h={"300px"} bgPos={"center"} >
                 <VStack fontFamily={"sans-serif"} color={"black"}>
                     <Text fontSize={{ base: "1xl", md: "3xl" }} fontWeight={"bold"}>Elevate Your Status</Text>
@@ -43,7 +43,7 @@ function Carousel() {
         </SplideSlide>
         <SplideSlide>
             <Center
-            bgImage="url('/img/huy-nguyen-YhP-E5YwOGE-unsplash.jpg')" bgSize="cover" bgRepeat="no-repeat" 
+            bgImage="url('https://ik.imagekit.io/fvrl067t2/img/huy-nguyen-YhP-E5YwOGE-unsplash.jpg')" bgSize="cover" bgRepeat="no-repeat" 
             bgAttachment="fixed" h={"300px"} bgPos={"center"}>
                     <Button colorScheme={"red"} color={"white"} fontFamily={"sans-serif"}>
                     Learn more <FontAwesomeIcon icon={faExternalLink}/> 
