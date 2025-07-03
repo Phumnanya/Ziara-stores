@@ -95,8 +95,8 @@ function Arrivals() {
 
 export default Arrivals;
 
-/*
- {/**Product 3 */}
+
+ /**Product 3 
                 <Box w={{ base: "50%", md: "30%" }} m={"auto"}>
                 <Card w={"100%"}>
                     <CardBody>
@@ -120,8 +120,9 @@ export default Arrivals;
                     </CardBody>
                 </Card>
                 </Box>
+                */
 
-                {/**Product 4 */}
+                /**Product 4 
                 <Box w={{ base: "50%", md: "30%" }} m={"auto"}>
                 <Card w={"100%"}>
                     <CardBody>
@@ -145,8 +146,9 @@ export default Arrivals;
                     </CardBody>
                 </Card>
                 </Box>
+                */
 
-                {/**Product 5 */}
+                /**Product 5 
                 <Box w={{ base: "50%", md: "30%" }} m={"auto"}>
                 <Card w={"100%"}>
                     <CardBody>
