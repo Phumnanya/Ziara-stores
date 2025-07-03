@@ -19,7 +19,7 @@ function Carousel() {
     >
         <SplideSlide>
             <Center
-            bgImage="url('https://ik.imagekit.io/fvrl067t2/img/alexander-naglestad-RFhq0SrrgEg-unsplash.jpg')" bgSize="cover" bgRepeat="no-repeat" bgPos={"center"}
+            bgImage="url('/img/alexander-naglestad-RFhq0SrrgEg-unsplash.jpg')" bgSize="cover" bgRepeat="no-repeat" bgPos={"center"}
             bgAttachment={"fixed"} h={"300px"} >
                 <VStack fontFamily={"sans-serif"} color={"white"}>
                     <Text fontSize={{ base: "1xl", md: "3xl" }} fontWeight={"bold"}>Express Yourself</Text>
