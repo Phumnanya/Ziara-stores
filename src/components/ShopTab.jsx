@@ -46,21 +46,21 @@ function Shoptab() {
                     <TabPanel>
                     <Flex flexDir={"row"} justifyContent={"space-between"} alignItems={"center"} w={"95%"}>
                         <Box h={"fit-content"} w={"30%"}>
-                            <Image boxSize='sm' src='https://cdn.statically.io//img/dom-hill-nimElTcTNyY-unsplash.jpg' objectFit={"cover"}
+                            <Image boxSize='sm' src='https://cdn.statically.io/img/dom-hill-nimElTcTNyY-unsplash.jpg' objectFit={"cover"}
                              alt='woman on sweat pants' />
                             <Box position={"relative"} bottom={"5em"}>
                                 <Button color={"blackAlpha.900"} bg={"white"}>Sweat Pants</Button>
                             </Box>
                         </Box>
                         <Box h={"fit-content"} w={"30%"}>
-                            <Image boxSize='sm' src='https://cdn.statically.io//img/alexanderafan-68EiF7-sU7w-unsplash.jpg' objectFit={"cover"}
+                            <Image boxSize='sm' src='https://cdn.statically.io/img/alexanderafan-68EiF7-sU7w-unsplash.jpg' objectFit={"cover"}
                              alt='woman on denim jacket' />
                             <Box position={"relative"} bottom={"5em"}>
                                 <Button color={"blackAlpha.900"} bg={"white"}>Denim Wears</Button>
                             </Box>
                         </Box>
                         <Box h={"fit-content"} w={"30%"}>
-                            <Image boxSize='sm' src='https://cdn.statically.io//img/darko-mitev-c5t_j1zlk1Y-unsplash.jpg' objectFit={"cover"}
+                            <Image boxSize='sm' src='https://cdn.statically.io/img/darko-mitev-c5t_j1zlk1Y-unsplash.jpg' objectFit={"cover"}
                              alt='woman on sleevless corporate' />
                             <Box position={"relative"} bottom={"5em"}>
                                 <Button color={"blackAlpha.900"} bg={"white"}>Corporate</Button>
