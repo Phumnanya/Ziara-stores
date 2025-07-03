@@ -22,7 +22,7 @@ function Testimonials() {
                         <CardHeader>
                             <Flex spacing='4'>
                             <Flex flex='1' gap='4' alignItems='center' flexWrap='wrap'>
-                                <Avatar name='Jennifer Saunders' src='/img/aiony-haust-3TLl_97HNJo-unsplash.jpg' />
+                                <Avatar name='Jennifer Saunders' src='https://ik.imagekit.io/fvrl067t2/img/aiony-haust-3TLl_97HNJo-unsplash.jpg' />
 
                                 <Box>
                                 <Heading size='sm'>Jennifer Saunders</Heading>
@@ -61,7 +61,7 @@ function Testimonials() {
                         <CardHeader>
                             <Flex spacing='4'>
                             <Flex flex='1' gap='4' alignItems='center' flexWrap='wrap'>
-                                <Avatar name='Alana Drexel' src='/img/raamin-ka-uR51HXLO7G0-unsplash.jpg' />
+                                <Avatar name='Alana Drexel' src='https://ik.imagekit.io/fvrl067t2/img/raamin-ka-uR51HXLO7G0-unsplash.jpg' />
 
                                 <Box>
                                 <Heading size='sm'>Alana Drexel</Heading>
