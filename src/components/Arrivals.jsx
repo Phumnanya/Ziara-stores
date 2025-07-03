@@ -43,13 +43,13 @@ function Arrivals() {
                 <Box w={{ base: "50%", md: "30%" }} m={"auto"}>
                 <Card w={"100%"}>
                     <CardBody>
-                        <Image src='/img/jay-soundo-DF0oEB_K5Vk-unsplash.jpg' boxSize={"sm"}
-                        alt='balmains evening dress' objectFit={"cover"} />
+                        <Image src='https://ik.imagekit.io/fvrl067t2/img/reza-delkhosh-iRAOJYtPHZE-unsplash.jpg' boxSize={"sm"}
+                        alt='versace high class' objectFit={"cover"} />
                         <VStack align={"start"}>
                             <Text fontSize={"sm"} color={"gray.500"}>FASHION</Text>
-                            <Text color={"black"} fontSize={"xl"}>Balmains Evening Dress</Text>
+                            <Text color={"black"} fontSize={"xl"}>Versace Classy</Text>
                             <StarRatings
-                                rating={3}
+                                rating={4}
                                 starDimension="20px"
                                 starSpacing="5px"
                                 starRatedColor="gold"
@@ -58,7 +58,7 @@ function Arrivals() {
                                 numberOfStars={5}
                                 name='rating0'
                                 />
-                            <Text fontSize={"sm"} fontWeight={"bold"}>$45.00</Text>
+                            <Text fontSize={"sm"} fontWeight={"bold"}>$85.17</Text>
                         </VStack>
                     </CardBody>
                 </Card>
@@ -88,25 +88,18 @@ function Arrivals() {
                     </CardBody>
                 </Card>
                 </Box>
-            </Flex>
-        </>
-    )
-}
 
-export default Arrivals;
-
-
- /**Product 3 
+                {/**Product 3 */}
                 <Box w={{ base: "50%", md: "30%" }} m={"auto"}>
                 <Card w={"100%"}>
                     <CardBody>
-                        <Image src='https://ik.imagekit.io/fvrl067t2/img/reza-delkhosh-iRAOJYtPHZE-unsplash.jpg' boxSize={"sm"}
-                        alt='versace high class' objectFit={"cover"} />
+                        <Image src='https://ik.imagekit.io/fvrl067t2/img/aiony-haust-IXYxqP4zejo-unsplash.jpg' boxSize={"sm"}
+                        alt='ramazotti vintage' objectFit={"cover"} />
                         <VStack align={"start"}>
                             <Text fontSize={"sm"} color={"gray.500"}>FASHION</Text>
-                            <Text color={"black"} fontSize={"xl"}>Versace Classy</Text>
+                            <Text color={"black"} fontSize={"xl"}>Ramazotti Vintage</Text>
                             <StarRatings
-                                rating={4}
+                                rating={3.5}
                                 starDimension="20px"
                                 starSpacing="5px"
                                 starRatedColor="gold"
@@ -115,12 +108,25 @@ export default Arrivals;
                                 numberOfStars={5}
                                 name='rating0'
                                 />
-                            <Text fontSize={"sm"} fontWeight={"bold"}>$85.17</Text>
+                            <Text fontSize={"sm"} fontWeight={"bold"}>$69.50</Text>
                         </VStack>
                     </CardBody>
                 </Card>
                 </Box>
-                */
+
+                <Center w={'100%'}>
+                    <Button color={"gray.900"} m={"2em 0 2em 0"}>
+                    Shop All Product <FontAwesomeIcon icon={faExternalLinkAlt} />
+                    </Button>
+                </Center>
+            </Flex>
+        </>
+    )
+}
+
+export default Arrivals;
+
+                
 
                 /**Product 4 
                 <Box w={{ base: "50%", md: "30%" }} m={"auto"}>
@@ -146,35 +152,6 @@ export default Arrivals;
                     </CardBody>
                 </Card>
                 </Box>
-                */
-
-                /**Product 5 
-                <Box w={{ base: "50%", md: "30%" }} m={"auto"}>
-                <Card w={"100%"}>
-                    <CardBody>
-                        <Image src='https://ik.imagekit.io/fvrl067t2/img/aiony-haust-IXYxqP4zejo-unsplash.jpg' boxSize={"sm"}
-                        alt='ramazotti vintage' objectFit={"cover"} />
-                        <VStack align={"start"}>
-                            <Text fontSize={"sm"} color={"gray.500"}>FASHION</Text>
-                            <Text color={"black"} fontSize={"xl"}>Ramazotti Vintage</Text>
-                            <StarRatings
-                                rating={3.5}
-                                starDimension="20px"
-                                starSpacing="5px"
-                                starRatedColor="gold"
-                                starHoverColor="gold"
-                                changeRating={(newRating) => console.log(newRating)}
-                                numberOfStars={5}
-                                name='rating0'
-                                />
-                            <Text fontSize={"sm"} fontWeight={"bold"}>$69.50</Text>
-                        </VStack>
-                    </CardBody>
-                </Card>
-                </Box>
-                <Center w={'100%'}>
-                    <Button color={"gray.900"} m={"2em 0 2em 0"}>
-                    Shop All Product <FontAwesomeIcon icon={faExternalLinkAlt} />
-                    </Button>
-                </Center>
+                
+                
 */
