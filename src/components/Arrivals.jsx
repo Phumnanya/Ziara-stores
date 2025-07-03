@@ -118,7 +118,7 @@ function Arrivals() {
                 </Center>
             </Flex>
         </>
-    )
+    );
 }
 
 export default Arrivals;
