@@ -29,7 +29,7 @@ function Shoptab() {
                             <Image boxSize='sm' src='https://ik.imagekit.io/fvrl067t2/img/dami-adebayo-k6aQzmIbR1s-unsplash.jpg?updatedAt=1751554421072' objectFit={"cover"}
                              alt='leather jackets' />
                             <Box position={"relative"} bottom={"5em"}>
-                                <Button color={"blackAlpha.900"} bg={"white"}>Leather jackets</Button>
+                                <Button color={"blackAlpha.900"} bg={"white"}>Leather</Button>
                             </Box>
                         </Box>
                         <Box h={"fit-content"} w={"30%"}>
@@ -51,7 +51,7 @@ function Shoptab() {
                             <Box position={"relative"} bottom={"5em"}>
                                 <Button color={"blackAlpha.900"} bg={"white"}>Sweat Pants</Button>
                             </Box>
-                        </Box>
+                        </B
                         <Box h={"fit-content"} w={"30%"}>
                             <Image boxSize='sm' src='https://ik.imagekit.io/fvrl067t2/img/alexanderafan-68EiF7-sU7w-unsplash.jpg' objectFit={"cover"}
                              alt='woman on denim jacket' />
