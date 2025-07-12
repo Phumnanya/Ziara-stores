@@ -10,7 +10,6 @@ function Shoptab() {
                 <TabList mb='1em' color={"gray.500"}>
                     <Tab _selected={{color: "black"}}>SHOP MEN</Tab>
                     <Tab _selected={{color: "black"}}>SHOP WOMEN</Tab>
-                    <Tab _selected={{color: "black"}}>SHOP KIDS</Tab>
                 </TabList>
                 <TabIndicator mt='-1.5px' height='2px' bg={"blackAlpha.900"} borderRadius='1px' />
 
@@ -64,33 +63,6 @@ function Shoptab() {
                              alt='woman on sleevless corporate' />
                             <Box position={"relative"} bottom={"5em"}>
                                 <Button color={"blackAlpha.900"} bg={"white"}>Corporate</Button>
-                            </Box>
-                        </Box>
-                    </Flex>
-                    </TabPanel>
-
-                    {/**Shop Kid's wears */}
-                    <TabPanel>
-                    <Flex flexDir={"row"} justifyContent={"space-between"} alignItems={"center"} w={"95%"}>
-                        <Box h={"fit-content"} w={"30%"}>
-                            <Image boxSize='sm' src='https://ik.imagekit.io/fvrl067t2/img/kristiina-glaase-DyL0KAEY70s-unsplash.jpg?updatedAt=1751554866582' objectFit={"cover"}
-                             alt='kids jean and blouse' />
-                            <Box position={"relative"} bottom={"5em"}>
-                                <Button color={"blackAlpha.900"} bg={"white"}>Blouse</Button>
-                            </Box>
-                        </Box>
-                        <Box h={"fit-content"} w={"30%"}>
-                            <Image boxSize='sm' src='https://ik.imagekit.io/fvrl067t2/img/terricks-noah-n9R0MN3XGvY-unsplash.jpg' objectFit={"cover"}
-                             alt='casual wears' />
-                            <Box position={"relative"} bottom={"5em"}>
-                                <Button color={"blackAlpha.900"} bg={"white"}>Casual wears</Button>
-                            </Box>
-                        </Box>
-                        <Box h={"fit-content"} w={"30%"}>
-                            <Image boxSize='sm' src='https://ik.imagekit.io/fvrl067t2/img/kayan-baby-kPXq-jxhMkk-unsplash.jpg?updatedAt=1751554649450' objectFit={"cover"}
-                             alt='kids gowns' />
-                            <Box position={"relative"} bottom={"5em"}>
-                                <Button color={"blackAlpha.900"} bg={"white"}>Gowns</Button>
                             </Box>
                         </Box>
                     </Flex>
