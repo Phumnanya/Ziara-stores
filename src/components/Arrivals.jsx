@@ -15,7 +15,7 @@ function Arrivals() {
             <Flex flexDir={"row"} alignItems={"center"} justifyContent={"center"} w={"92%"} fontFamily={"verdana"}
             m={"auto"} flexWrap={"wrap"}>
 
-                <Box w={{ base: "50%", md: "100%" }} m={"auto"}>
+                <Box w={{ base: "100%", md: "30%" }} m={"auto"}>
                 <Card w={"100%"}>
                     <CardBody>
                         <Image src='https://ik.imagekit.io/fvrl067t2/img/reza-delkhosh-iRAOJYtPHZE-unsplash.jpg' boxSize={"sm"}
@@ -39,7 +39,7 @@ function Arrivals() {
                 </Card>
                 </Box>
 
-                <Box w={{ base: "50%", md: "100%" }} m={"auto"}>
+                <Box w={{ base: "100%", md: "30%" }} m={"auto"}>
                 <Card w={"100%"}>
                     <CardBody>
                         <Image src='https://ik.imagekit.io/fvrl067t2/img/reza-delkhosh-1h4SHm3SZ0c-unsplash.jpg' boxSize={"sm"}
@@ -63,7 +63,7 @@ function Arrivals() {
                 </Card>
                 </Box>
 
-                <Box w={{ base: "50%", md: "100%" }} m={"auto"}>
+                <Box w={{ base: "100%", md: "30%" }} m={"auto"}>
                 <Card w={"100%"}>
                     <CardBody>
                         <Image src='https://ik.imagekit.io/fvrl067t2/img/aiony-haust-IXYxqP4zejo-unsplash.jpg' boxSize={"sm"}
