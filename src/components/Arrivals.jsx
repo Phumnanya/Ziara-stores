@@ -14,30 +14,6 @@ function Arrivals() {
 
             <Flex flexDir={"row"} alignItems={"center"} justifyContent={"center"} w={"92%"} fontFamily={"verdana"}
             m={"auto"} flexWrap={"wrap"}>
-        
-                <Box w={{ base: "50%", md: "30%" }} m={"auto"}>
-                <Card w={"100%"}>
-                    <CardBody>
-                        <Image src='https://ik.imagekit.io/fvrl067t2/img/rendy-novantino-_jd8I6yBWM4-unsplash.jpg' boxSize={"sm"}
-                        alt='armani dinner gown' objectFit={"cover"} />
-                        <VStack align={"start"}>
-                            <Text fontSize={"sm"} color={"gray.500"}>FASHION</Text>
-                            <Text color={"black"} fontSize={"xl"}>Armani Dinner Gowns</Text>
-                            <StarRatings
-                                rating={3.5}
-                                starDimension="20px"
-                                starSpacing="5px"
-                                starRatedColor="gold"
-                                starHoverColor="gold"
-                                changeRating={(newRating) => console.log(newRating)}
-                                numberOfStars={5}
-                                name='rating0'
-                                />
-                            <Text fontSize={"sm"} fontWeight={"bold"}>$48.00</Text>
-                        </VStack>
-                    </CardBody>
-                </Card>
-                </Box>
 
                 <Box w={{ base: "50%", md: "30%" }} m={"auto"}>
                 <Card w={"100%"}>
