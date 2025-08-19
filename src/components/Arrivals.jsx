@@ -19,7 +19,7 @@ function Arrivals() {
                 <Box w={{ base: "100%", md: "30%" }} m={"auto"}>
                 <Card w={"100%"} isLazy>
                     <CardBody isLazy>
-                        <Image src='/img/reza-delkhosh-1h4SHm3SZ0c-unsplash.jpg' boxSize={"xs"}
+                        <Image src='https://ik.imagekit.io/fvrl067t2/ziara/reza-delkhosh-1h4SHm3SZ0c-unsplash.jpg?updatedAt=1755611628792' boxSize={"xs"}
                         alt='Fendi wears' objectFit={"cover"} />
                         <VStack align={"start"}>
                             <Text fontSize={"sm"} color={"gray.500"}>FASHION</Text>
@@ -44,7 +44,7 @@ function Arrivals() {
                 <Box w={{ base: "100%", md: "30%" }} m={"auto"}>
                 <Card w={"100%"} isLazy>
                     <CardBody isLazy>
-                        <Image src='/img/reza-delkhosh-iRAOJYtPHZE-unsplash.jpg' boxSize={"xs"}
+                        <Image src='https://ik.imagekit.io/fvrl067t2/ziara/reza-delkhosh-iRAOJYtPHZE-unsplash.jpg' boxSize={"xs"}
                         alt='versace high class' objectFit={"cover"} />
                         <VStack align={"start"}>
                             <Text fontSize={"sm"} color={"gray.500"}>FASHION</Text>
@@ -69,7 +69,7 @@ function Arrivals() {
                 <Box w={{ base: "100%", md: "30%" }} m={"auto"}>
                 <Card w={"100%"} isLazy>
                     <CardBody isLazy>
-                        <Image src='/img/aiony-haust-IXYxqP4zejo-unsplash.jpg' boxSize={"xs"}
+                        <Image src='https://ik.imagekit.io/fvrl067t2/ziara/aiony-haust-IXYxqP4zejo-unsplash.jpg?updatedAt=1755611314671' boxSize={"xs"}
                         alt='ramazotti vintage' objectFit={"cover"} />
                         <VStack align={"start"}>
                             <Text fontSize={"sm"} color={"gray.500"}>FASHION</Text>
@@ -100,3 +100,4 @@ function Arrivals() {
 }
 
 export default Arrivals;
+
