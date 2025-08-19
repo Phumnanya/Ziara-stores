@@ -14,10 +14,10 @@ function Bottom() {
                     ante eget aliquam venenatis. Donec congue at ligula in cursus</Text><br />
                     <Text fontWeight={"bold"} px={"15px"}>FOLLOW US</Text>
                     <div className="flex flex-row justify-center items-center w-fit mt-4 px-4">
-                        <div><a href="#"><Avatar name='facebook' src='/img/icons8-facebook-logo-48.svg' size={"sm"} /></a></div>
-                        <div><a href="#"><Avatar name='x' src='/img/icons8-x-48.svg' size={"sm"} /></a></div>
-                        <div><a href="#"><Avatar name='instagram' src='/img/icons8-instagram-logo-48.svg' size={"sm"} /></a></div>
-                        <div><a href="#"><Avatar name='linkedin' src='/img/icons8-linkedin-logo-48.svg' size={"sm"} /></a></div>
+                        <div><a href="#"><Avatar name='https://img.icons8.com/fluency/48/facebook-new.png' size={"sm"} /></a></div>
+                        <div><a href="#"><Avatar name='x' src='https://img.icons8.com/fluency/48/twitterx--v1.png' size={"sm"} /></a></div>
+                        <div><a href="#"><Avatar name='instagram' src='https://img.icons8.com/color/48/instagram-new--v1.png' size={"sm"} /></a></div>
+                        <div><a href="#"><Avatar name='linkedin' src='https://img.icons8.com/color/48/linkedin.png' size={"sm"} /></a></div>
                     </div>
                 </div>
                 <div className="w-full md:w-2/3 flex flex-row justify-between items-center">
@@ -60,12 +60,7 @@ export default Bottom;
 
 
 /**
- * https://img.icons8.com/fluency/48/facebook-new.png   96
- * https://img.icons8.com/fluency/48/twitterx--v1.png
- * https://img.icons8.com/color/48/instagram-new--v1.png
- * https://img.icons8.com/color/48/linkedin.png
- * 
- * 
+ *    96
  * payment options 
  * https://img.icons8.com/external-those-icons-fill-those-icons/30/external-Apple-Pay-payment-methods-those-icons-fill-those-icons.png
  * https://img.icons8.com/color/30/paypal.png
@@ -76,4 +71,5 @@ export default Bottom;
  * 
 
                         
+
  */
