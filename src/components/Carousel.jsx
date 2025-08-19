@@ -31,7 +31,7 @@ function Carousel() {
         </SplideSlide>
         <SplideSlide>
             <Center isLazy
-            bgImage="url('/img/chris-reyem-oJoeGnj8OMM-unsplash.jpg')" bgSize="cover" bgRepeat="no-repeat" 
+            bgImage="url('https://ik.imagekit.io/fvrl067t2/ziara/chris-reyem-oJoeGnj8OMM-unsplash.jpg?updatedAt=1755611325461')" bgSize="cover" bgRepeat="no-repeat" 
             bgAttachment="fixed" h={"300px"} bgPos={"center"} >
                 <VStack fontFamily={"sans-serif"} color={"black"}>
                 <Text fontSize={{ base: "1xl", md: "3xl" }} fontWeight={"bold"}>Elevate Your Status</Text>
@@ -43,7 +43,7 @@ function Carousel() {
         </SplideSlide>
         <SplideSlide>
             <Center isLazy
-            bgImage="url('/img/huy-nguyen-YhP-E5YwOGE-unsplash.jpg')" bgSize="cover" bgRepeat="no-repeat" 
+            bgImage="url('https://ik.imagekit.io/fvrl067t2/ziara/huy-nguyen-YhP-E5YwOGE-unsplash.jpg?updatedAt=1755611548252')" bgSize="cover" bgRepeat="no-repeat" 
             bgAttachment="fixed" h={"300px"} bgPos={"center"}>
                     <LearnMore />
             </Center>
@@ -51,5 +51,6 @@ function Carousel() {
     </Splide>
     )
 }
+
 
 export default Carousel;
