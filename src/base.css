@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    h1:not(.chakra-heading, .chakra-text) {
+        font-size: revert !important;
+        font-weight: revert !important;
+    }
+    h2:not(.chakra-heading, .chakra-text) {
+        font-size: revert !important;
+        font-weight: revert !important;
+    }
+    h3:not(.chakra-heading, .chakra-text) {
+        font-size: revert !important;
+        font-weight: revert !important;
+    }
+    h4:not(.chakra-heading, .chakra-text) {
+        font-size: revert !important;
+        font-weight: revert !important;
+    }
+    h5:not(.chakra-heading, .chakra-text) {
+        font-size: revert !important;
+        font-weight: revert !important;
+    }
+    p:not(.chakra-heading, .chakra-text) {
+        font-size: revert !important;
+        font-weight: revert !important;
+    }
+    b:not(.chakra-heading, .chakra-text) {
+        font-size: revert !important;
+        font-weight: revert !important;
+    }
+    i:not(.chakra-heading, .chakra-text) {
+        font-size: revert !important;
+        font-weight: revert !important;
+    }
+}
