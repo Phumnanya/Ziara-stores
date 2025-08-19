@@ -18,7 +18,7 @@ function Journals() {
             <div className="flex flex-row justify-between items-center w-full">
                 <div className="w-1/3 p-1 md:p-3">
                     <Link to={"/"}>
-                        <Image src='/img/toa-heftiba-KQ1n6HzSahY-unsplash.jpg' boxSize={"xs"} w={"100%"} h={"180px"}
+                        <Image src='https://ik.imagekit.io/fvrl067t2/ziara/toa-heftiba-KQ1n6HzSahY-unsplash.jpg?updatedAt=1755611658631' boxSize={"xs"} w={"100%"} h={"180px"}
                             alt='ramazotti vintage' objectFit={"cover"} mb={"1em"} />
                         <p className="text-gray-500">ACCESSORIES</p>
                         <p className="text-2xl font-bold my-8">
@@ -28,7 +28,7 @@ function Journals() {
                 </div>
                 <div className="w-1/3 p-1 md:p-3">
                     <Link to={"/"}>
-                        <Image src='/img/nana-miya-GCDjllzoKLo-unsplash.jpg' boxSize={"xs"} w={"100%"} h={"180px"}
+                        <Image src='https://ik.imagekit.io/fvrl067t2/ziara/nana-miya-GCDjllzoKLo-unsplash.jpg?updatedAt=1755611557082' boxSize={"xs"} w={"100%"} h={"180px"}
                             alt='ramazotti vintage' objectFit={"cover"} mb={"1em"} />
                         <p className="text-gray-500">ACCESSORIES</p>
                         <p className="text-2xl font-bold my-8">
@@ -38,7 +38,7 @@ function Journals() {
                 </div>
                 <div className="w-1/3 p-1 md:p-3">
                     <Link to={"/"}>
-                        <Image src='/img/freestocks-VFrcRtEQKL8-unsplash.jpg' boxSize={"xs"} w={"100%"} h={"180px"}
+                        <Image src='https://ik.imagekit.io/fvrl067t2/ziara/freestocks-VFrcRtEQKL8-unsplash.jpg?updatedAt=1755615695103' boxSize={"xs"} w={"100%"} h={"180px"}
                             alt='ramazotti vintage' objectFit={"cover"} mb={"1em"} />
                         <p className="text-gray-500">ACCESSORIES</p>
                         <p className="text-2xl font-bold my-8">
@@ -50,5 +50,6 @@ function Journals() {
         </>
     )
 }
+
 
 export default Journals;
