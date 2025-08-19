@@ -9,7 +9,7 @@ function Delivery() {
                 {/**Delivery 0 */}
                 <Box p={{ base: "5px", md: "10px" }} boxSizing="border-box" m={"auto"} pb={"10px"} w={"47%"}>
                     <Stack align={"start"}>
-                        <Avatar name='fabric' src='/img/icons8-fabric-sample-96.png' />
+                        <Avatar name='fabric' src='https://ik.imagekit.io/fvrl067t2/ziara/icons8-fabric-sample-96.png?updatedAt=1755611365872' />
                         <Heading size={"xs"}>Sustainable Materials</Heading>
                         <Text>Experience eco-friendly shopping with original products made from sustainably sourced
                         reputable materials.
@@ -20,7 +20,7 @@ function Delivery() {
                 {/**Delivery 1 */}
                 <Box p={{ base: "5px", md: "10px" }} boxSizing="border-box" m={"auto"} pb={"10px"} w={"47%"}>
                     <Stack align={"start"}>
-                        <Avatar name='30 days free return' src='/img/icons8-return-64.png' />
+                        <Avatar name='30 days free return' src='https://ik.imagekit.io/fvrl067t2/ziara/icons8-return-64.png?updatedAt=1755611387138' />
                         <Heading size={"xs"}>30 Days Free Returns</Heading>
                         <Text>Shop with complete confidence, knowing that you're covered by our 30-day free return
                         policy on all of our products.
@@ -31,7 +31,7 @@ function Delivery() {
                 {/**Delivery 2 */}
                 <Box p={{ base: "5px", md: "10px" }} boxSizing="border-box" m={"auto"} pb={"10px"} w={"47%"}>
                     <Stack align={"start"}>
-                        <Avatar name='free delivery' src='/img/icons8-free-shipping-48.png' />
+                        <Avatar name='free delivery' src='https://ik.imagekit.io/fvrl067t2/ziara/icons8-free-shipping-48.png?updatedAt=1755611372055' />
                         <Heading size={"xs"}>Free Delivery</Heading>
                         <Text>Enjoy free delivery on all orders exceeding 200 USD, bringing more value to your
                         shopping experience.
@@ -42,7 +42,7 @@ function Delivery() {
                 {/**Delivery 3 */}
                 <Box p={{ base: "5px", md: "10px" }} boxSizing="border-box" m={"auto"} pb={"10px"} w={"47%"}>
                     <Stack align={"start"}>
-                        <Avatar name='cash on delivery' src='/img/icons8-cash-on-delivery-96.png' />
+                        <Avatar name='cash on delivery' src='https://ik.imagekit.io/fvrl067t2/ziara/icons8-cash-on-delivery-96.png?updatedAt=1755611344927' />
                         <Heading size={"xs"}>COD</Heading>
                         <Text>Enjoy the convenience of cash on delivery (COD) for a secure and hassle-free
                         shopping experience.
@@ -55,6 +55,7 @@ function Delivery() {
 }
 
 export default Delivery;
+
 
 
 
