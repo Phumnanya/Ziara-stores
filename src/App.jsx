@@ -1,26 +1,17 @@
 import React from 'react';
-import Navbar from './components/Navbar';
-import Marq from './components/Marquee';
-import Carousel from './components/Carousel';
-import Press from './components/Press';
-import Shoptab from './components/ShopTab';
-import Arrivals from './components/Arrivals';
-import Testimonials from './components/Testimonials';
-import Delivery from './components/Delivery';
-import Trending from './components/Trending';
+import { Routes, Route } from 'react-router-dom';
+import Homepage from './Homepage';
+import Products from './Products';
+import './index.css'
+
 
 function App() {
   return (
     <>
-    <Navbar />
-    <Marq />
-    <Carousel />
-    <Press />
-    <Shoptab />
-    <Arrivals />
-    <Testimonials />
-    <Delivery />
-    <Trending />
+    <Routes>
+      <Route path='/' element={<Homepage />} />
+      <Route path='/products' element={<Products />} />
+    </Routes>
     </>
   );
 }
